@@ -3,8 +3,8 @@ I Am Amitesh Kumar
 
 - 🔭 I’m currently working on :
 1. Programming Club Webite
-2. ECell Website
-3. Own Portfolio
+2. ECell Student Portal
+3. Smart Local App Recommender
 - 🌱 I’m currently learning :
 1. Algorithms
 2. Data Structure
