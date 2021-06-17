@@ -48,6 +48,9 @@
 - **Web Development**
 - **Competitive Programming**
 - **Data Structures and Algorithms**
+### Hackathons ###
+- **Participated in 5 Hackathons**
+- **Won one of the hackthons - Pickhacks**
 
 <code>
   <h2>Position Of Responsibilities</h2>
@@ -120,5 +123,8 @@
   </p>
   <div align="center">
     <h2 align="center">My Portfolio - <a href="https://amitesh-kumar.netlify.app/">Click Here!</a></h2> 
+  </div>
+   <div align="center">
+    <h2 align="center">My Devpost - <a href="https://devpost.com/amitesh-kumar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Click Here!</a></h2> 
   </div>
 <code>
