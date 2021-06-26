@@ -83,10 +83,10 @@
   </div>
   <p align="center">
     <a href="https://medium.com/@belikeamitesh" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's Blogs" height="30px" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
+      <img align="center" alt="Amitesh's Blogs" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
     </a> 
     <a href="https://www.youtube.com/channel/UClMN3cSV7FsXINuk_eK2Utw" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's Youtube" height="30px" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
+      <img align="center" alt="Amitesh's Youtube" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
      </a>
     <a href="https://devpost.com/amitesh-kumar" target="_blank" style="text-decoration: none;">
       <img align="center" alt="Devpost" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
@@ -95,9 +95,6 @@
   </p>
   <div align="center">
     <h2 align="center">My Portfolio - <a href="https://amitesh-kumar.netlify.app/">Click Here!</a></h2> 
-  </div>
-   <div align="center">
-    <h2 align="center">My Devpost - <a href="https://devpost.com/amitesh-kumar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Click Here!</a></h2> 
   </div>
    <h6>Credits for images : <a href="https://github.com/bornmay/bornmay">bormay</h6>
 <code>
