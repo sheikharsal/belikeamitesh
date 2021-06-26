@@ -29,18 +29,12 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
    
 </code>
-### Things I Like to Talk About ###
-- **Web Development**
-- **Competitive Programming**
-- **Data Structures and Algorithms**
-### Hackathons ###
-- **Participated in 5 Hackathons**
-- **Won one of the hackthons - Pickhacks**
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belikeamitesh)](https://github.com/anuraghazra/github-readme-stats)
 
 <code>
   <h2>Position Of Responsibilities</h2>
