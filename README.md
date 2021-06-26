@@ -71,10 +71,10 @@
   <div align="center">
     <h2>Statistics</h2>
     <a href="https://github.com/belikeamitesh">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=belikeamitesh&show_icons=true&theme=light&line_height=27" alt="Amitesh's Github Stats"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=belikeamitesh&show_icons=true&theme=dark&line_height=27" alt="Amitesh's Github Stats"/>
     </a>
     <a href="https://github.com/belikeamitesh">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=light&hide_langs_below=1" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=dark&hide_langs_below=1" />
      </a>
 </code>
 
