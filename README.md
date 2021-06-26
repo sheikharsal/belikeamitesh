@@ -19,48 +19,23 @@
 </div>
 <code>
   <h1 align="center">My Skillset</h1>
-  <ul>
-    <li>
-      <h3 align = "center">Programming Langauges</h3>
-      <div align="center">
-        <img width="82px" margin="10px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"></img>
-        <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></img>
-        <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></img>
-        <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="BASH (Amateur)"></img>
-      </div>
-    </li>
-    <li>
-      <h3 align = "center">Markup And Styling Langauge</h3>
-      <div align = "center">
-        <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></img>
-        <img width="82px" margin="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></img>
-      </div>
-    </li>
-    <li>
-      <h3>Applications</h3>
-      <ul>
-        <li>Data Structures</li>
-        <li>Algorithms</li>
-        <li>Web Development</li>
-        <li>UI/UX</li>
-      </ul>
-    </li>
-    <li>
-      <h3>Programming Paradigms</h3>
-      <ul>
-        <li>Procedural Programming</li>
-        <li>Object Oriented Programming (OOP)</li>
-      </ul>
-    </li>
-    <li>
-      <h3>Miscellaneous</h3>
-      <ul>
-        <li>Git</li>
-      </ul>
-    </li>
-  </ul>
-</code>
+   ### - Languages and Tools...
 
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px"> -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"> -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+   
+</code>
 ### Things I Like to Talk About ###
 - **Web Development**
 - **Competitive Programming**
