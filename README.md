@@ -79,7 +79,7 @@
 </code>
 
   <div align="center">
-    <h2 align="center">Handles To Reach Me</h2> 
+    <h2 align="center">Extra Curriculars</h2> 
   </div>
   <p align="center">
     <a href="https://medium.com/@belikeamitesh" target="_blank" style="text-decoration: none;">
@@ -99,4 +99,5 @@
    <div align="center">
     <h2 align="center">My Devpost - <a href="https://devpost.com/amitesh-kumar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Click Here!</a></h2> 
   </div>
+   <h6>Credits for images : <a href="https://github.com/bornmay/bornmay">bormay</h6>
 <code>
