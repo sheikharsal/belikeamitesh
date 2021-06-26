@@ -34,7 +34,7 @@
 </p>
    
 </code>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belikeamitesh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <code>
   <h2>Position Of Responsibilities</h2>
@@ -78,8 +78,10 @@
     </a>
   </div>
 </code>
-
-
+<code>
+   <a href="https://github.com/belikeamitesh">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=belikeamitesh" alt="stats">
+   </a>
 <code>
   <div align="center">
     <h2 align="center">Handles To Reach Me</h2> 
