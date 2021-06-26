@@ -75,7 +75,9 @@
     </a>
     <a href="https://github.com/belikeamitesh">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=light&hide_langs_below=1" />
-    </a>
+     </a>
+     <a href="https://github.com/belikeamitesh">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=belikeamitesh&show_icons=true&theme=light&line_height=27"alt="stats"> </a>
   </div>
 </code>
 
