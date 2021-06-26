@@ -8,7 +8,7 @@
 <a href="https://twitter.com/belikeamitesh"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://devpost.com/amitesh-kumar"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100012417972068"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
-<!--  <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp; -->
+ <a href="https://github.com/belikeamitesh"><img height="30" src="https://img.shields.io/github/followers/belikeamitesh?label=Follow&style=social"></a>&nbsp;&nbsp;
  </p>
  
 
