@@ -87,12 +87,9 @@
     </a> 
     <a href="https://www.youtube.com/channel/UClMN3cSV7FsXINuk_eK2Utw" target="_blank" style="text-decoration: none;">
       <img align="center" alt="Amitesh's Youtube" height="30px" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
-    </a> 
-      <a href="https://www.youtube.com/channel/UClMN3cSV7FsXINuk_eK2Utw" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's Youtube" height="30px" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
-    </a> 
+     </a>
     <a href="https://devpost.com/amitesh-kumar" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Devpost" height="30px" width="30px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
+      <img align="center" alt="Devpost" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
     </a>
     
   </p>
