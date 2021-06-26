@@ -1,7 +1,5 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://amitesh-portfolio.netlify.app/">Amitesh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
@@ -12,12 +10,12 @@
 <a href="https://www.facebook.com/profile.php?id=100012417972068"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 <!--  <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp; -->
  </p>
-![GitHub followers](https://img.shields.io/github/followers/belikeamitesh?label=Follow&style=social)
+ 
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Amitesh Kumar | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
+![GitHub followers](https://img.shields.io/github/followers/belikeamitesh?label=Follow&style=social)
 ### - Languages and Tools...
 
 <p align="center">
