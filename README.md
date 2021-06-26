@@ -82,15 +82,6 @@
     <h2 align="center">Handles To Reach Me</h2> 
   </div>
   <p align="center">
-    <a href="https://www.linkedin.com/in/amitesh-kumar-ak/" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's LinkedIn" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
-    </a>
-    <a href="https://www.instagram.com/_'alienboy/" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's Instagram" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100012417972068" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's Facebook" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
-    </a>
     <a href="https://medium.com/@belikeamitesh" target="_blank" style="text-decoration: none;">
       <img align="center" alt="Amitesh's Blogs" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
     </a> 
