@@ -28,8 +28,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px"> -->
+<!--   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
    
@@ -76,9 +76,6 @@
     <a href="https://github.com/belikeamitesh">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=light&hide_langs_below=1" />
      </a>
-     <a href="https://github.com/belikeamitesh">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=belikeamitesh&show_icons=true&theme=light&line_height=27"alt="stats"> </a>
-  </div>
 </code>
 
   <div align="center">
