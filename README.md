@@ -11,7 +11,6 @@
 <a href="https://www.facebook.com/profile.php?id=100012417972068"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://github.com/belikeamitesh"><img height="30" src="https://img.shields.io/github/followers/belikeamitesh?label=Follow&style=social"></a>&nbsp;&nbsp;
  </p>
- 
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Amitesh Kumar | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -35,6 +34,10 @@
 </p>
    
 </code>
+
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=belikeamitesh&style=flat)
+[![Github](https://img.shields.io/badge/-belikeamitesh-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/belikeamitesh)
 
 
 <code>
