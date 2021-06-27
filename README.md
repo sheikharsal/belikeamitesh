@@ -18,7 +18,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-### - Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+###  Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> 
@@ -39,7 +39,9 @@
 ![](https://komarev.com/ghpvc/?username=belikeamitesh&style=flat)
 [![Github](https://img.shields.io/badge/-belikeamitesh-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/belikeamitesh)
 
-
+<div align="center">
+    <h4 align="center">My Portfolio - <a href="https://amitesh-kumar.netlify.app/">Click Here!</a></h4> 
+</div>
 <code>
   <h2>Position Of Responsibilities</h2>
   <ul>
@@ -94,11 +96,7 @@
      </a>
     <a href="https://devpost.com/amitesh-kumar" target="_blank" style="text-decoration: none;">
       <img align="center" alt="Devpost" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
-    </a>
-    
+   </a> 
   </p>
-  <div align="center">
-    <h2 align="center">My Portfolio - <a href="https://amitesh-kumar.netlify.app/">Click Here!</a></h2> 
-  </div>
    <h6>Credits for images : <a href="https://github.com/bornmay/bornmay">bormay</h6>
 <code>
