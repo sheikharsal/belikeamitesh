@@ -36,8 +36,10 @@
 </code>
 
 <!-- Profile View Count and GitStats -->
+
 ![](https://komarev.com/ghpvc/?username=belikeamitesh&style=flat)
 [![Github](https://img.shields.io/badge/-belikeamitesh-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/belikeamitesh)
+
 
 <div align="center">
     <h4 align="center">My Portfolio - <a href="https://amitesh-kumar.netlify.app/">Click Here!</a></h4> 
