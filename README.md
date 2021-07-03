@@ -100,5 +100,4 @@
       <img align="center" alt="Devpost" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
    </a> 
   </p>
-   <h6>Credits for images : <a href="https://github.com/bornmay/bornmay">bormay</h6>
 <code>
