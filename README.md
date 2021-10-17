@@ -47,10 +47,10 @@
 <code>
   <h2>Position Of Responsibilities</h2>
   <ul>
-  <li>Technical Secretary IIIT Guwahati</li>
+     <li>Web Dev Lead- Google DSC</li>
+  <li>Former Technical Secretary IIIT Guwahati</li>
     <li>Former IIITG Programming Club Coordinator</li>
     <li>E-Cell Technical Member</li>
-     <li>Web Dev Lead- Google DSC</li>
   </ul>
   <h2>Miscellaneous</h2>
   <h3>Fun Fact - I am the admin of Web For You</h3>
