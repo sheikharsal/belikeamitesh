@@ -84,7 +84,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=belikeamitesh&show_icons=true&theme=dark&line_height=27" alt="Amitesh's Github Stats"/>
     </a>
     <a href="https://github.com/belikeamitesh">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=dark&hide_langs_below=1" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=dark&hide_langs_below=1&exclude_repo=CS306-Machine-Learning" />
      </a>
 </code>
 
