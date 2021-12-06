@@ -101,9 +101,7 @@
       <img align="center" alt="Devpost" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
    </a> 
   </p>
-  <div align="center">
-     ![snake gif](https://github.com/belikeamitesh/belikeamitesh/blob/output/github-contribution-grid-snake.gif)
-  </div>
+    ![snake gif](https://github.com/belikeamitesh/belikeamitesh/blob/output/github-contribution-grid-snake.gif)
 <code>
    
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
