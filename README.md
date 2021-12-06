@@ -89,7 +89,7 @@
     <a href="https://github.com/belikeamitesh">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=prussian&hide_langs_below=1&exclude_repo=CS306-Machine-Learning" />
      </a>
-     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=belikamitesh&theme=prussian&hide_border=true" />
+     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=belikeamitesh&theme=prussian&hide_border=true" />
 </code>
    
 
