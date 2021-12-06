@@ -45,6 +45,9 @@
     <h4 align="center">My Portfolio - <a href="https://amitesh-kumar.netlify.app/">Click Here!</a></h4> 
     <h4 align="center">Some of my Projects - <a href="https://belikeamitesh.github.io/Code-Zone/">Click Here!</a></h4>
 </div>
+
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=belikeamitesh&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
+
 <code>
   <h2>Position Of Responsibilities</h2>
   <ul>
