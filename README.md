@@ -48,8 +48,6 @@
     <h4 align="center">Some of my Projects - <a href="https://belikeamitesh.github.io/Code-Zone/">Click Here!</a></h4>
 </div>
 
-![snake gif](https://github.com/belikeamitesh/belikeamitesh/blob/output/github-contribution-grid-snake.gif)
-
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=belikeamitesh&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
 <code>
@@ -103,6 +101,9 @@
       <img align="center" alt="Devpost" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
    </a> 
   </p>
+  <div align="center">
+     ![snake gif](https://github.com/belikeamitesh/belikeamitesh/blob/output/github-contribution-grid-snake.gif)
+  </div>
 <code>
    
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
