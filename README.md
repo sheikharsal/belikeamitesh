@@ -47,6 +47,7 @@
     <h4 align="center">My Portfolio - <a href="https://amitesh-kumar.netlify.app/">Click Here!</a></h4> 
     <h4 align="center">Some of my Projects - <a href="https://belikeamitesh.github.io/Code-Zone/">Click Here!</a></h4>
 </div>
+![snake gif](https://github.com/belikeamitesh/belikeamitesh/blob/output/github-contribution-grid-snake.gif)
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=belikeamitesh&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
@@ -57,14 +58,6 @@
   <li>Former Technical Secretary IIIT Guwahati</li>
     <li>Former IIITG Programming Club Coordinator</li>
     <li>E-Cell Technical Member</li>
-  </ul>
-  <h2>Miscellaneous</h2>
-  <h3>Fun Fact - I am the admin of Web For You</h3>
-  <ul>
-    <li>Instagram - <a href="https://www.instagram.com/web.for.u/">Click Here!</a></li>
-    <li>Facebook -  <a href="https://www.facebook.com/web.4.uu/">Click Here!</a></li>
-    <li>Medium - <a href="https://www.medium.com/web-for-you/">Click Here!</a></li>
-    <li>Website - <a href="https://github.com/Web-4-You">Under Progress!</a></li>
   </ul>
   <br /><br/>
   <h2 align="center"><strong><u>My Articles And Blogs</u></strong></h2>
