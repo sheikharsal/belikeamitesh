@@ -79,12 +79,12 @@
   <div align="center">
     <h2>Statistics</h2>
     <a href="https://github.com/belikeamitesh">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=belikeamitesh&show_icons=true&theme=prussian&line_height=27" alt="Amitesh's Github Stats"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=belikeamitesh&show_icons=true&theme=react&line_height=27" alt="Amitesh's Github Stats"/>
     </a>
     <a href="https://github.com/belikeamitesh">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=prussian&hide_langs_below=1&exclude_repo=CS306-Machine-Learning" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=react&hide_langs_below=1&exclude_repo=CS306-Machine-Learning" />
      </a>
-     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=belikeamitesh&theme=prussian&hide_border=true" />
+     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=belikeamitesh&theme=react&hide_border=true" />
 </code>
    
 
