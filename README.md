@@ -60,21 +60,8 @@
     <li>E-Cell Technical Member</li>
   </ul>
   <br /><br/>
-  <h2 align="center"><strong><u>My Articles And Blogs</u></strong></h2>
-  <ul>
-    <li><a style="text-decoration:none;" href="https://iiitg-blogs.com/2020/07/13/the-curriculum-vitae-the-cv/7/" target="_blank">The Curriculum Vitae - IIITG's Newsletter</a></li>
-    <li>
-      <h3><strong>Web For You</strong></h3>
-      <ul>
-        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/get-started-with-node-js-405a3605d1de" target="_blank">Getting Started with Node.js - Day 1</a></li>
-        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/getting-started-with-node-js-day-2-ac0c661902ea" target="_blank">Getting Started with Node.js - Day 2</a></li>
-        <li><a style="text-decoration:none;" href="https://medium.com/@belikeamitesh/getting-started-with-node-js-day-3-4062c7693db5" target="_blank">Getting Started with Node.js - Day 3</a></li>
-        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/how-to-make-typing-effect-c72d9d6b9772" target="_blank">How To Make: Typing Effect</a></li>
-      </ul>
-    </li>
-  </ul>
 </code>
-
+   [![belikeamitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=amitesh46237242&theme=midnight)](https://github.com/belikeamitesh/leetcode-stats)
 <code>
   <div align="center">
     <h2>Statistics</h2>
