@@ -61,8 +61,8 @@
   </ul>
   <br /><br/>
 </code>
-   [![belikeamitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=amitesh46237242&theme=midnight)](https://github.com/belikeamitesh/leetcode-stats)
 <code>
+    [![belikeamitesh's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=amitesh46237242&theme=midnight)]
   <div align="center">
     <h2>Statistics</h2>
     <a href="https://github.com/belikeamitesh">
